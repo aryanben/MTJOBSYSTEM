@@ -1,0 +1,16 @@
+C:\Users\USER\source\repos\MT\MT\bin\Debug\net5.0\MT.exe
+C:\Users\USER\source\repos\MT\MT\bin\Debug\net5.0\MT.deps.json
+C:\Users\USER\source\repos\MT\MT\bin\Debug\net5.0\MT.runtimeconfig.json
+C:\Users\USER\source\repos\MT\MT\bin\Debug\net5.0\MT.runtimeconfig.dev.json
+C:\Users\USER\source\repos\MT\MT\bin\Debug\net5.0\MT.dll
+C:\Users\USER\source\repos\MT\MT\bin\Debug\net5.0\ref\MT.dll
+C:\Users\USER\source\repos\MT\MT\bin\Debug\net5.0\MT.pdb
+C:\Users\USER\source\repos\MT\MT\obj\Debug\net5.0\MT.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\MT\MT\obj\Debug\net5.0\MT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\MT\MT\obj\Debug\net5.0\MT.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\MT\MT\obj\Debug\net5.0\MT.AssemblyInfo.cs
+C:\Users\USER\source\repos\MT\MT\obj\Debug\net5.0\MT.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\MT\MT\obj\Debug\net5.0\MT.dll
+C:\Users\USER\source\repos\MT\MT\obj\Debug\net5.0\ref\MT.dll
+C:\Users\USER\source\repos\MT\MT\obj\Debug\net5.0\MT.pdb
+C:\Users\USER\source\repos\MT\MT\obj\Debug\net5.0\MT.genruntimeconfig.cache
